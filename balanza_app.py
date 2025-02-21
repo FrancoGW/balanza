@@ -11,7 +11,7 @@ import pandas as pd
 from PyQt6.QtCore import QTimer, Qt
 from PyQt6.QtGui import QIcon
 
-# Configurar logging
+# Configurar logging12ß
 log_file = os.path.expanduser('~/Desktop/balanza_log.txt')
 logging.basicConfig(filename=log_file, level=logging.DEBUG,
                    format='%(asctime)s - %(levelname)s - %(message)s')
