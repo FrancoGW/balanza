@@ -1,20 +1,15 @@
-<<<<<<< HEAD
-bin/
-build/
-dist/
-*.spec
-
-=======
 # Python
 __pycache__/
 *.py[cod]
 *$py.class
 venv/
 *.db
-
+bin/
+build/
+dist/
+lib/
 # macOS
 .DS_Store
 
 # VS Code
 .vscode/
->>>>>>> b6afd05c46f834bf66b0543cc381be28fa6f9f12
